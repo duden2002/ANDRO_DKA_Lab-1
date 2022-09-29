@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DKA_Lab_1</string>
+    <string name="b">B=</string>
+    <string name="sum">Решить</string>
+    <string name="button_name">Введите цифры и нажмите кнопку Решить</string>
+    <string name="a">A=</string>
+    <string name="x">X=</string>
+    <string name="logo">logo</string>
+</resources>
